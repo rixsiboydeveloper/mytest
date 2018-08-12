@@ -1,2 +1,1 @@
-2-o`zgarishlar
-git clone ishlari va git push buyrugi uchun misollarga bu fayl yasaldi.
+Assalomu alaykum, bu video darslar git clone buyrugi haqida bo`ladi.
